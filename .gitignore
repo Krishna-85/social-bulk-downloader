@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+Downloads/
+downloaded_archive.txt
+failed.txt
+collected_urls.txt
+.browser_profile/
+*.json
+*.log
