@@ -1,0 +1,8 @@
+@echo off
+cd /d "%~dp0"
+echo ============================================================
+echo                 SOCIAL BULK DOWNLOADER
+echo                    DEVELOPER: KRISHNA
+echo ============================================================
+python social_downloader.py
+pause
