@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+Downloads/
+downloaded_archive.txt
+failed.txt
